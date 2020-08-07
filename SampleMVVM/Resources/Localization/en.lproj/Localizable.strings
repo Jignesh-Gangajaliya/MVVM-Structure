@@ -1,0 +1,8 @@
+/* 
+  Localizable.strings
+  SampleMVVM
+
+  Created by Jignesh gangajaliya on 12/11/19.
+  Copyright © 2019 GoGet CarShare. All rights reserved.
+*/
+"Hello GoGet" = "Hello GoGet";
